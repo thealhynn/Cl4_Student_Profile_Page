@@ -4,3 +4,731 @@ CodeIgniter v4.7.0 Command Line Tool - Server Time: 2026-03-11 20:32:06 UTC+00:0
 CodeIgniter development server started on http://localhost:8080
 Press Control-C to stop.
 [Thu Mar 12 04:32:06 2026] PHP 8.2.12 Development Server (http://localhost:8080) started
+[Thu Mar 12 19:49:41 2026] [::1]:63251 Accepted
+[Thu Mar 12 19:50:04 2026] [::1]:63251 Closing
+[Thu Mar 12 19:50:04 2026] [::1]:56219 Accepted
+[Thu Mar 12 19:50:04 2026] [::1]:56219 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Mar 12 19:50:04 2026] [::1]:56219 Closing
+[Thu Mar 12 19:50:04 2026] [::1]:60221 Accepted
+[Thu Mar 12 19:50:04 2026] [::1]:60221 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:50:04 2026] [::1]:60221 Closing
+[Thu Mar 12 19:50:04 2026] [::1]:54141 Accepted
+[Thu Mar 12 19:50:04 2026] [::1]:63105 Accepted
+[Thu Mar 12 19:50:04 2026] [::1]:54141 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:50:04 2026] [::1]:63105 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:50:04 2026] [::1]:54141 Closing
+[Thu Mar 12 19:50:04 2026] [::1]:63105 Closing
+[Thu Mar 12 19:50:04 2026] [::1]:57020 Accepted
+[Thu Mar 12 19:50:07 2026] [::1]:57020 [200]: GET /index.php?debugbar_time=1773316201.043953
+[Thu Mar 12 19:50:07 2026] [::1]:57020 Closing
+[Thu Mar 12 19:50:07 2026] [::1]:56314 Accepted
+[Thu Mar 12 19:50:07 2026] [::1]:56314 [200]: GET /favicon.ico
+[Thu Mar 12 19:50:07 2026] [::1]:56314 Closing
+[Thu Mar 12 19:50:19 2026] [::1]:52412 Accepted
+[Thu Mar 12 19:50:19 2026] [::1]:52412 Closing
+[Thu Mar 12 19:50:19 2026] [::1]:52841 Accepted
+[Thu Mar 12 19:50:20 2026] [::1]:52841 Closing
+[Thu Mar 12 19:50:20 2026] [::1]:49668 Accepted
+[Thu Mar 12 19:50:20 2026] [::1]:49668 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:50:20 2026] [::1]:49668 Closing
+[Thu Mar 12 19:50:20 2026] [::1]:59329 Accepted
+[Thu Mar 12 19:50:20 2026] [::1]:52710 Accepted
+[Thu Mar 12 19:50:20 2026] [::1]:59329 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:50:20 2026] [::1]:52710 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:50:20 2026] [::1]:59329 Closing
+[Thu Mar 12 19:50:20 2026] [::1]:52710 Closing
+[Thu Mar 12 19:50:20 2026] [::1]:52869 Accepted
+[Thu Mar 12 19:50:21 2026] [::1]:52869 [200]: GET /index.php?debugbar_time=1773316220.330725
+[Thu Mar 12 19:50:21 2026] [::1]:52869 Closing
+[Thu Mar 12 19:50:27 2026] [::1]:55642 Accepted
+[Thu Mar 12 19:50:27 2026] [::1]:55642 Closing
+[Thu Mar 12 19:50:27 2026] [::1]:61739 Accepted
+[Thu Mar 12 19:50:28 2026] [::1]:61739 Closing
+[Thu Mar 12 19:50:28 2026] [::1]:58948 Accepted
+[Thu Mar 12 19:50:28 2026] [::1]:65183 Accepted
+[Thu Mar 12 19:50:28 2026] [::1]:56223 Accepted
+[Thu Mar 12 19:50:28 2026] [::1]:58948 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:50:28 2026] [::1]:65183 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:50:28 2026] [::1]:65183 Closing
+[Thu Mar 12 19:50:28 2026] [::1]:56223 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:50:28 2026] [::1]:58948 Closing
+[Thu Mar 12 19:50:28 2026] [::1]:56223 Closing
+[Thu Mar 12 19:50:28 2026] [::1]:65284 Accepted
+[Thu Mar 12 19:50:28 2026] [::1]:65284 [200]: GET /index.php?debugbar_time=1773316228.118904
+[Thu Mar 12 19:50:28 2026] [::1]:65284 Closing
+[Thu Mar 12 19:50:43 2026] [::1]:54597 Accepted
+[Thu Mar 12 19:50:43 2026] [::1]:54597 Closing
+[Thu Mar 12 19:50:43 2026] [::1]:50925 Accepted
+[Thu Mar 12 19:50:44 2026] [::1]:50925 Closing
+[Thu Mar 12 19:50:44 2026] [::1]:54406 Accepted
+[Thu Mar 12 19:50:44 2026] [::1]:54406 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:50:44 2026] [::1]:54406 Closing
+[Thu Mar 12 19:50:44 2026] [::1]:51467 Accepted
+[Thu Mar 12 19:50:44 2026] [::1]:59985 Accepted
+[Thu Mar 12 19:50:44 2026] [::1]:51467 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:50:44 2026] [::1]:59985 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:50:44 2026] [::1]:51467 Closing
+[Thu Mar 12 19:50:44 2026] [::1]:59985 Closing
+[Thu Mar 12 19:50:44 2026] [::1]:51135 Accepted
+[Thu Mar 12 19:50:44 2026] [::1]:51135 [200]: GET /index.php?debugbar_time=1773316244.090096
+[Thu Mar 12 19:50:44 2026] [::1]:51135 Closing
+[Thu Mar 12 19:50:56 2026] [::1]:62312 Accepted
+[Thu Mar 12 19:50:57 2026] [::1]:62312 Closing
+[Thu Mar 12 19:50:57 2026] [::1]:57577 Accepted
+[Thu Mar 12 19:50:57 2026] [::1]:57577 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:50:57 2026] [::1]:57577 Closing
+[Thu Mar 12 19:50:57 2026] [::1]:49728 Accepted
+[Thu Mar 12 19:50:57 2026] [::1]:59563 Accepted
+[Thu Mar 12 19:50:57 2026] [::1]:49728 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:50:57 2026] [::1]:59563 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:50:57 2026] [::1]:49728 Closing
+[Thu Mar 12 19:50:57 2026] [::1]:59563 Closing
+[Thu Mar 12 19:50:57 2026] [::1]:58581 Accepted
+[Thu Mar 12 19:50:57 2026] [::1]:58581 [200]: GET /index.php?debugbar_time=1773316257.223937
+[Thu Mar 12 19:50:57 2026] [::1]:58581 Closing
+[Thu Mar 12 19:51:02 2026] [::1]:51286 Accepted
+[Thu Mar 12 19:51:02 2026] [::1]:57732 Accepted
+[Thu Mar 12 19:51:03 2026] [::1]:51286 Closing
+[Thu Mar 12 19:51:03 2026] [::1]:52313 Accepted
+[Thu Mar 12 19:51:03 2026] [::1]:57732 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:51:03 2026] [::1]:57732 Closing
+[Thu Mar 12 19:51:03 2026] [::1]:55738 Accepted
+[Thu Mar 12 19:51:03 2026] [::1]:52313 [200]: GET /assets/css/app.css
+[Thu Mar 12 19:51:03 2026] [::1]:55738 [200]: GET /assets/js/app.js
+[Thu Mar 12 19:51:03 2026] [::1]:52313 Closing
+[Thu Mar 12 19:51:03 2026] [::1]:55738 Closing
+[Thu Mar 12 19:51:03 2026] [::1]:63252 Accepted
+[Thu Mar 12 19:51:03 2026] [::1]:63252 [200]: GET /index.php?debugbar_time=1773316263.169402
+[Thu Mar 12 19:51:03 2026] [::1]:63252 Closing
+[Thu Mar 12 19:51:11 2026] [::1]:57770 Accepted
+[Thu Mar 12 19:51:12 2026] [::1]:57770 Closing
+[Thu Mar 12 19:51:12 2026] [::1]:65237 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:65237 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:61857 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:61857 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:51:14 2026] [::1]:61857 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:53492 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:64059 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:53492 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:51:14 2026] [::1]:58494 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:64059 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:51:14 2026] [::1]:49668 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:58494 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:51:14 2026] [::1]:61954 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:49668 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 19:51:14 2026] [::1]:63593 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:61954 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 19:51:14 2026] [::1]:64059 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:51037 Accepted
+[Thu Mar 12 19:51:14 2026] [::1]:63593 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:51:14 2026] [::1]:53492 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:58494 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:51037 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 19:51:14 2026] [::1]:49668 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:61954 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:63593 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:51037 Closing
+[Thu Mar 12 19:51:14 2026] [::1]:49156 Accepted
+[Thu Mar 12 19:51:15 2026] [::1]:49156 [200]: GET /index.php?debugbar_time=1773316274.130078
+[Thu Mar 12 19:51:15 2026] [::1]:49156 Closing
+[Thu Mar 12 19:51:20 2026] [::1]:65033 Accepted
+[Thu Mar 12 19:51:21 2026] [::1]:65033 Closing
+[Thu Mar 12 19:51:21 2026] [::1]:62162 Accepted
+[Thu Mar 12 19:51:22 2026] [::1]:62162 Closing
+[Thu Mar 12 19:51:22 2026] [::1]:61265 Accepted
+[Thu Mar 12 19:51:22 2026] [::1]:61265 Closing
+[Thu Mar 12 19:51:22 2026] [::1]:59438 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:59438 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:51:23 2026] [::1]:59438 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:54256 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:51242 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:54256 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:51:23 2026] [::1]:56516 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:51242 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:51:23 2026] [::1]:56516 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:51:23 2026] [::1]:49353 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:49353 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 19:51:23 2026] [::1]:51242 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:58130 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:54256 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:56516 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:49683 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:58130 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 19:51:23 2026] [::1]:49683 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:51:23 2026] [::1]:49353 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:51818 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:51818 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 19:51:23 2026] [::1]:58130 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:49683 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:51818 Closing
+[Thu Mar 12 19:51:23 2026] [::1]:50118 Accepted
+[Thu Mar 12 19:51:23 2026] [::1]:50118 [200]: GET /index.php?debugbar_time=1773316282.863894
+[Thu Mar 12 19:51:23 2026] [::1]:50118 Closing
+[Thu Mar 12 19:52:00 2026] [::1]:51230 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:51230 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:52012 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:52012 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:55476 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:55476 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:52:01 2026] [::1]:55476 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:51849 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:49294 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:51849 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:52:01 2026] [::1]:64101 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:49294 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:52:01 2026] [::1]:64101 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:52:01 2026] [::1]:49294 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:51849 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:64101 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:57692 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:55388 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:61696 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:57692 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 19:52:01 2026] [::1]:55388 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 19:52:01 2026] [::1]:55769 Accepted
+[Thu Mar 12 19:52:01 2026] [::1]:61696 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:52:01 2026] [::1]:57692 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:55769 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 19:52:01 2026] [::1]:55388 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:61696 Closing
+[Thu Mar 12 19:52:01 2026] [::1]:55769 Closing
+[Thu Mar 12 19:52:02 2026] [::1]:52856 Accepted
+[Thu Mar 12 19:52:02 2026] [::1]:52856 [200]: GET /index.php?debugbar_time=1773316321.689817
+[Thu Mar 12 19:52:02 2026] [::1]:52856 Closing
+[Thu Mar 12 19:52:03 2026] [::1]:60683 Accepted
+[Thu Mar 12 19:52:04 2026] [::1]:60683 Closing
+[Thu Mar 12 19:52:04 2026] [::1]:51602 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:51602 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:50074 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:50074 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:64684 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:54511 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:55517 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:55837 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:64684 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:52:05 2026] [::1]:54511 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:52:05 2026] [::1]:54511 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:55517 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:52:05 2026] [::1]:55837 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:52:05 2026] [::1]:55517 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:55837 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:64613 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:64613 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 19:52:05 2026] [::1]:57676 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:50904 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:57676 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 19:52:05 2026] [::1]:53582 Accepted
+[Thu Mar 12 19:52:05 2026] [::1]:50904 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:52:05 2026] [::1]:64613 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:53582 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 19:52:05 2026] [::1]:64684 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:57676 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:50904 Closing
+[Thu Mar 12 19:52:05 2026] [::1]:53582 Closing
+[Thu Mar 12 19:52:06 2026] [::1]:56668 Accepted
+[Thu Mar 12 19:52:06 2026] [::1]:56668 [200]: GET /index.php?debugbar_time=1773316325.632650
+[Thu Mar 12 19:52:06 2026] [::1]:56668 Closing
+[Thu Mar 12 19:54:23 2026] [::1]:60266 Accepted
+[Thu Mar 12 19:54:23 2026] [::1]:60266 Closing
+[Thu Mar 12 19:54:23 2026] [::1]:57502 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:57502 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:54:24 2026] [::1]:57502 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:58532 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:57224 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:58532 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:54:24 2026] [::1]:61436 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:57224 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:54:24 2026] [::1]:61436 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:54:24 2026] [::1]:57224 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:61436 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:52063 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:58532 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:52063 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 19:54:24 2026] [::1]:59320 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:52063 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:54109 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:59320 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 19:54:24 2026] [::1]:54109 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:54:24 2026] [::1]:59320 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:64691 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:54109 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:64691 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 19:54:24 2026] [::1]:64691 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:63019 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:63019 [200]: GET /index.php?debugbar_time=1773316463.848910
+[Thu Mar 12 19:54:24 2026] [::1]:63019 Closing
+[Thu Mar 12 19:54:24 2026] [::1]:60149 Accepted
+[Thu Mar 12 19:54:24 2026] [::1]:60149 [200]: GET /favicon.ico
+[Thu Mar 12 19:54:24 2026] [::1]:60149 Closing
+[Thu Mar 12 19:54:27 2026] [::1]:64490 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:64490 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:65081 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:55767 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:65081 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:54:28 2026] [::1]:65081 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:57631 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:55767 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:54:28 2026] [::1]:58317 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:57631 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:54:28 2026] [::1]:58317 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:54:28 2026] [::1]:57631 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:55767 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:58317 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:64180 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:64180 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:54:28 2026] [::1]:64180 Closing
+[Thu Mar 12 19:54:28 2026] [::1]:56442 Accepted
+[Thu Mar 12 19:54:28 2026] [::1]:56442 [200]: GET /index.php?debugbar_time=1773316468.495082
+[Thu Mar 12 19:54:28 2026] [::1]:56442 Closing
+[Thu Mar 12 19:54:36 2026] [::1]:56885 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:56885 Closing
+[Thu Mar 12 19:54:37 2026] [::1]:64416 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:58679 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:60604 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:64416 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:54:37 2026] [::1]:64416 Closing
+[Thu Mar 12 19:54:37 2026] [::1]:65303 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:58679 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:54:37 2026] [::1]:60604 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:54:37 2026] [::1]:65303 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:54:37 2026] [::1]:60604 Closing
+[Thu Mar 12 19:54:37 2026] [::1]:65303 Closing
+[Thu Mar 12 19:54:37 2026] [::1]:58679 Closing
+[Thu Mar 12 19:54:37 2026] [::1]:58870 Accepted
+[Thu Mar 12 19:54:37 2026] [::1]:58870 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:54:37 2026] [::1]:58870 Closing
+[Thu Mar 12 19:54:38 2026] [::1]:56865 Accepted
+[Thu Mar 12 19:54:38 2026] [::1]:56865 [200]: GET /index.php?debugbar_time=1773316477.753618
+[Thu Mar 12 19:54:38 2026] [::1]:56865 Closing
+[Thu Mar 12 19:56:08 2026] [::1]:63135 Accepted
+[Thu Mar 12 19:56:08 2026] [::1]:57586 Accepted
+[Thu Mar 12 19:56:09 2026] [::1]:63135 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:57586 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:53301 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:61005 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:53301 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:56:10 2026] [::1]:53301 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:53603 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:61005 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:56:10 2026] [::1]:62080 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:53603 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:56:10 2026] [::1]:62080 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:56:10 2026] [::1]:53650 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:53603 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:53650 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 19:56:10 2026] [::1]:61005 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:62080 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:53650 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:54071 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:54071 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:56:10 2026] [::1]:54071 Closing
+[Thu Mar 12 19:56:10 2026] [::1]:56465 Accepted
+[Thu Mar 12 19:56:10 2026] [::1]:56465 [200]: GET /index.php?debugbar_time=1773316570.179938
+[Thu Mar 12 19:56:10 2026] [::1]:56465 Closing
+[Thu Mar 12 19:57:53 2026] [::1]:50748 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:50748 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:64977 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:64977 [200]: GET /index.php?debugbar
+[Thu Mar 12 19:57:54 2026] [::1]:64977 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:55304 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:61339 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:55304 [200]: GET /css/adminlte.css
+[Thu Mar 12 19:57:54 2026] [::1]:56253 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:61339 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 19:57:54 2026] [::1]:56253 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 19:57:54 2026] [::1]:61339 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:55304 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:56253 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:58937 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:58937 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 19:57:54 2026] [::1]:58937 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:58576 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:58576 [200]: GET /js/adminlte.js
+[Thu Mar 12 19:57:54 2026] [::1]:58576 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:50111 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:50111 [200]: GET /index.php?debugbar_time=1773316674.134884
+[Thu Mar 12 19:57:54 2026] [::1]:50111 Closing
+[Thu Mar 12 19:57:54 2026] [::1]:50539 Accepted
+[Thu Mar 12 19:57:54 2026] [::1]:50539 [200]: GET /favicon.ico
+[Thu Mar 12 19:57:54 2026] [::1]:50539 Closing
+[Thu Mar 12 20:06:03 2026] [::1]:50062 Accepted
+[Thu Mar 12 20:06:04 2026] [::1]:50062 Closing
+[Thu Mar 12 20:06:04 2026] [::1]:55812 Accepted
+[Thu Mar 12 20:06:04 2026] [::1]:55812 Closing
+[Thu Mar 12 20:06:04 2026] [::1]:49678 Accepted
+[Thu Mar 12 20:06:04 2026] [::1]:60622 Accepted
+[Thu Mar 12 20:06:04 2026] [::1]:49678 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:06:04 2026] [::1]:52539 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:60622 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:06:05 2026] [::1]:60622 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:64384 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:52539 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:06:05 2026] [::1]:64384 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:06:05 2026] [::1]:52539 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:49678 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:64384 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:52347 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:60022 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:52347 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 20:06:05 2026] [::1]:60022 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 20:06:05 2026] [::1]:64749 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:52347 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:60022 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:53810 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:64749 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:06:05 2026] [::1]:64749 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:53810 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 20:06:05 2026] [::1]:53810 Closing
+[Thu Mar 12 20:06:05 2026] [::1]:51627 Accepted
+[Thu Mar 12 20:06:05 2026] [::1]:51627 [200]: GET /index.php?debugbar_time=1773317164.775045
+[Thu Mar 12 20:06:05 2026] [::1]:51627 Closing
+[Thu Mar 12 20:06:06 2026] [::1]:49187 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:49187 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:57388 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:50047 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:57388 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:06:07 2026] [::1]:57388 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:62761 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:50047 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:06:07 2026] [::1]:63647 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:62761 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:06:07 2026] [::1]:63647 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:06:07 2026] [::1]:62761 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:50047 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:63647 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:57725 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:57725 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:06:07 2026] [::1]:54005 Accepted
+[Thu Mar 12 20:06:07 2026] [::1]:54005 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:06:07 2026] [::1]:57725 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:54005 Closing
+[Thu Mar 12 20:06:07 2026] [::1]:52563 Accepted
+[Thu Mar 12 20:06:08 2026] [::1]:52563 [200]: GET /index.php?debugbar_time=1773317167.625545
+[Thu Mar 12 20:06:08 2026] [::1]:52563 Closing
+[Thu Mar 12 20:16:53 2026] [::1]:51526 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:51526 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:57959 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:57959 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:16:54 2026] [::1]:57959 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:64913 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:51405 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:64913 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:16:54 2026] [::1]:62063 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:51405 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:16:54 2026] [::1]:62063 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:16:54 2026] [::1]:51405 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:64913 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:62063 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:62211 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:52383 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:62211 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:16:54 2026] [::1]:52383 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:16:54 2026] [::1]:62211 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:52383 Closing
+[Thu Mar 12 20:16:54 2026] [::1]:64392 Accepted
+[Thu Mar 12 20:16:54 2026] [::1]:64392 [200]: GET /index.php?debugbar_time=1773317814.436203
+[Thu Mar 12 20:16:54 2026] [::1]:64392 Closing
+[Thu Mar 12 20:17:01 2026] [::1]:54576 Accepted
+[Thu Mar 12 20:17:01 2026] [::1]:54576 Closing
+[Thu Mar 12 20:17:01 2026] [::1]:49858 Accepted
+[Thu Mar 12 20:17:02 2026] [::1]:49858 [200]: GET /index.php?debugbar_time=1773317821.889351
+[Thu Mar 12 20:17:02 2026] [::1]:49858 Closing
+[Thu Mar 12 20:17:03 2026] [::1]:62521 Accepted
+[Thu Mar 12 20:17:03 2026] [::1]:62521 Closing
+[Thu Mar 12 20:17:03 2026] [::1]:56321 Accepted
+[Thu Mar 12 20:17:03 2026] [::1]:56321 [200]: GET /index.php?debugbar_time=1773317823.470689
+[Thu Mar 12 20:17:03 2026] [::1]:56321 Closing
+[Thu Mar 12 20:17:05 2026] [::1]:53081 Accepted
+[Thu Mar 12 20:17:05 2026] [::1]:53081 Closing
+[Thu Mar 12 20:17:05 2026] [::1]:51770 Accepted
+[Thu Mar 12 20:17:05 2026] [::1]:60617 Accepted
+[Thu Mar 12 20:17:05 2026] [::1]:54348 Accepted
+[Thu Mar 12 20:17:06 2026] [::1]:51770 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:17:06 2026] [::1]:51770 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:58251 Accepted
+[Thu Mar 12 20:17:06 2026] [::1]:60617 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:17:06 2026] [::1]:54348 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:17:06 2026] [::1]:58251 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:17:06 2026] [::1]:54348 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:58251 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:60617 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:61527 Accepted
+[Thu Mar 12 20:17:06 2026] [::1]:61527 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:17:06 2026] [::1]:61527 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:57659 Accepted
+[Thu Mar 12 20:17:06 2026] [::1]:57659 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:17:06 2026] [::1]:57659 Closing
+[Thu Mar 12 20:17:06 2026] [::1]:63733 Accepted
+[Thu Mar 12 20:17:06 2026] [::1]:63733 [200]: GET /index.php?debugbar_time=1773317825.957642
+[Thu Mar 12 20:17:06 2026] [::1]:63733 Closing
+[Thu Mar 12 20:17:10 2026] [::1]:60027 Accepted
+[Thu Mar 12 20:17:10 2026] [::1]:60027 Closing
+[Thu Mar 12 20:17:10 2026] [::1]:63343 Accepted
+[Thu Mar 12 20:17:10 2026] [::1]:55081 Accepted
+[Thu Mar 12 20:17:10 2026] [::1]:53231 Accepted
+[Thu Mar 12 20:17:10 2026] [::1]:51483 Accepted
+[Thu Mar 12 20:17:11 2026] [::1]:63343 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:17:11 2026] [::1]:63343 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:55081 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:17:11 2026] [::1]:53231 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:17:11 2026] [::1]:51483 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:17:11 2026] [::1]:53231 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:51483 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:54413 Accepted
+[Thu Mar 12 20:17:11 2026] [::1]:54413 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:17:11 2026] [::1]:60382 Accepted
+[Thu Mar 12 20:17:11 2026] [::1]:60382 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:17:11 2026] [::1]:54413 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:60382 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:55081 Closing
+[Thu Mar 12 20:17:11 2026] [::1]:59792 Accepted
+[Thu Mar 12 20:17:11 2026] [::1]:59792 [200]: GET /index.php?debugbar_time=1773317830.976063
+[Thu Mar 12 20:17:11 2026] [::1]:59792 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:60595 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:60595 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:52759 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:60212 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:55593 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:52759 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:20:15 2026] [::1]:52759 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:56762 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:60212 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:20:15 2026] [::1]:55593 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:20:15 2026] [::1]:56762 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:20:15 2026] [::1]:55593 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:56762 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:61502 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:60212 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:54135 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:61502 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:20:15 2026] [::1]:54135 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:20:15 2026] [::1]:61502 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:54135 Closing
+[Thu Mar 12 20:20:15 2026] [::1]:51578 Accepted
+[Thu Mar 12 20:20:15 2026] [::1]:51578 [200]: GET /index.php?debugbar_time=1773318015.588642
+[Thu Mar 12 20:20:15 2026] [::1]:51578 Closing
+[Thu Mar 12 20:20:42 2026] [::1]:53169 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:53169 Closing
+[Thu Mar 12 20:20:42 2026] [::1]:49212 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:49212 Closing
+[Thu Mar 12 20:20:42 2026] [::1]:57260 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:51777 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:58613 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:59826 Accepted
+[Thu Mar 12 20:20:42 2026] [::1]:57260 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:20:43 2026] [::1]:51777 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:20:43 2026] [::1]:51777 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:58613 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:20:43 2026] [::1]:59826 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:20:43 2026] [::1]:58613 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:59826 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:57260 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:61198 Accepted
+[Thu Mar 12 20:20:43 2026] [::1]:61198 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:20:43 2026] [::1]:61198 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:54664 Accepted
+[Thu Mar 12 20:20:43 2026] [::1]:54664 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:20:43 2026] [::1]:54664 Closing
+[Thu Mar 12 20:20:43 2026] [::1]:62817 Accepted
+[Thu Mar 12 20:20:43 2026] [::1]:62817 [200]: GET /index.php?debugbar_time=1773318042.972484
+[Thu Mar 12 20:20:43 2026] [::1]:62817 Closing
+[Thu Mar 12 20:21:01 2026] [::1]:55166 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:55166 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:52139 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:52139 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:50638 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:61358 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:56829 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:64781 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:50638 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:21:02 2026] [::1]:61358 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:21:02 2026] [::1]:61358 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:56829 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:21:02 2026] [::1]:64781 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:21:02 2026] [::1]:56829 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:64781 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:50638 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:58429 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:58429 [200]: GET /assets/img/user1-128x128.jpg
+[Thu Mar 12 20:21:02 2026] [::1]:58429 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:57762 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:60452 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:62186 Accepted
+[Thu Mar 12 20:21:02 2026] [::1]:57762 [200]: GET /assets/img/user3-128x128.jpg
+[Thu Mar 12 20:21:02 2026] [::1]:60452 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:21:02 2026] [::1]:62186 [200]: GET /assets/img/user7-128x128.jpg
+[Thu Mar 12 20:21:02 2026] [::1]:57762 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:60452 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:62186 Closing
+[Thu Mar 12 20:21:02 2026] [::1]:58520 Accepted
+[Thu Mar 12 20:21:03 2026] [::1]:58520 [200]: GET /index.php?debugbar_time=1773318062.670885
+[Thu Mar 12 20:21:03 2026] [::1]:58520 Closing
+[Thu Mar 12 20:30:13 2026] [::1]:51883 Accepted
+[Thu Mar 12 20:30:13 2026] [::1]:51883 Closing
+[Thu Mar 12 20:30:13 2026] [::1]:56249 Accepted
+[Thu Mar 12 20:30:13 2026] [::1]:65032 Accepted
+[Thu Mar 12 20:30:13 2026] [::1]:65279 Accepted
+[Thu Mar 12 20:30:13 2026] [::1]:51052 Accepted
+[Thu Mar 12 20:30:14 2026] [::1]:56249 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:30:14 2026] [::1]:56249 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:65032 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:30:14 2026] [::1]:65279 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:30:14 2026] [::1]:51052 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:30:14 2026] [::1]:65279 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:51052 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:59066 Accepted
+[Thu Mar 12 20:30:14 2026] [::1]:65032 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:63427 Accepted
+[Thu Mar 12 20:30:14 2026] [::1]:59066 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:30:14 2026] [::1]:59066 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:63427 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:30:14 2026] [::1]:63427 Closing
+[Thu Mar 12 20:30:14 2026] [::1]:59643 Accepted
+[Thu Mar 12 20:30:14 2026] [::1]:59643 [200]: GET /index.php?debugbar_time=1773318613.907414
+[Thu Mar 12 20:30:14 2026] [::1]:59643 Closing
+[Thu Mar 12 20:30:30 2026] [::1]:57589 Accepted
+[Thu Mar 12 20:30:30 2026] [::1]:57589 Closing
+[Thu Mar 12 20:30:30 2026] [::1]:61973 Accepted
+[Thu Mar 12 20:30:30 2026] [::1]:51423 Accepted
+[Thu Mar 12 20:30:30 2026] [::1]:51945 Accepted
+[Thu Mar 12 20:30:30 2026] [::1]:54328 Accepted
+[Thu Mar 12 20:30:31 2026] [::1]:61973 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:30:31 2026] [::1]:61973 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:51423 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:30:31 2026] [::1]:51945 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:30:31 2026] [::1]:54328 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:30:31 2026] [::1]:51945 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:54328 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:51423 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:61092 Accepted
+[Thu Mar 12 20:30:31 2026] [::1]:61092 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:30:31 2026] [::1]:54518 Accepted
+[Thu Mar 12 20:30:31 2026] [::1]:54518 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:30:31 2026] [::1]:61092 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:54518 Closing
+[Thu Mar 12 20:30:31 2026] [::1]:54481 Accepted
+[Thu Mar 12 20:30:31 2026] [::1]:54481 [200]: GET /index.php?debugbar_time=1773318630.951111
+[Thu Mar 12 20:30:31 2026] [::1]:54481 Closing
+[Thu Mar 12 20:30:57 2026] [::1]:64443 Accepted
+[Thu Mar 12 20:30:57 2026] [::1]:64443 Closing
+[Thu Mar 12 20:30:57 2026] [::1]:49668 Accepted
+[Thu Mar 12 20:30:57 2026] [::1]:49668 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:50896 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:51857 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:57993 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:52045 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:50896 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:30:58 2026] [::1]:51857 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:30:58 2026] [::1]:51857 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:57993 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:30:58 2026] [::1]:52045 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:30:58 2026] [::1]:57993 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:52045 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:50896 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:49760 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:57573 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:49760 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:30:58 2026] [::1]:57573 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:30:58 2026] [::1]:49760 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:57573 Closing
+[Thu Mar 12 20:30:58 2026] [::1]:58697 Accepted
+[Thu Mar 12 20:30:58 2026] [::1]:58697 [200]: GET /index.php?debugbar_time=1773318657.974839
+[Thu Mar 12 20:30:58 2026] [::1]:58697 Closing
+[Thu Mar 12 20:31:22 2026] [::1]:65145 Accepted
+[Thu Mar 12 20:31:22 2026] [::1]:53177 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:65145 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:53177 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:62280 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:49668 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:50508 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:51579 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:62280 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:31:23 2026] [::1]:49668 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:31:23 2026] [::1]:49668 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:50508 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:31:23 2026] [::1]:51579 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:31:23 2026] [::1]:50508 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:51579 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:62280 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:51190 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:51190 [200]: GET /uploads/profiles/avatar_2_1773316569.jpeg
+[Thu Mar 12 20:31:23 2026] [::1]:59171 Accepted
+[Thu Mar 12 20:31:23 2026] [::1]:59171 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:31:23 2026] [::1]:51190 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:59171 Closing
+[Thu Mar 12 20:31:23 2026] [::1]:63863 Accepted
+[Thu Mar 12 20:31:24 2026] [::1]:63863 [200]: GET /index.php?debugbar_time=1773318683.565800
+[Thu Mar 12 20:31:24 2026] [::1]:63863 Closing
+[Thu Mar 12 20:32:24 2026] [::1]:58522 Accepted
+[Thu Mar 12 20:32:24 2026] [::1]:52167 Accepted
+[Thu Mar 12 20:32:25 2026] [::1]:58522 Closing
+[Thu Mar 12 20:32:25 2026] [::1]:52167 Closing
+[Thu Mar 12 20:32:25 2026] [::1]:56804 Accepted
+[Thu Mar 12 20:32:25 2026] [::1]:51293 Accepted
+[Thu Mar 12 20:32:25 2026] [::1]:51623 Accepted
+[Thu Mar 12 20:32:25 2026] [::1]:59977 Accepted
+[Thu Mar 12 20:32:25 2026] [::1]:56804 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:32:26 2026] [::1]:51293 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:32:26 2026] [::1]:51293 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:51623 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:32:26 2026] [::1]:59977 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:32:26 2026] [::1]:51623 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:59977 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:56804 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:54665 Accepted
+[Thu Mar 12 20:32:26 2026] [::1]:54665 [200]: GET /uploads/profiles/avatar_2_1773318745.jpg
+[Thu Mar 12 20:32:26 2026] [::1]:51049 Accepted
+[Thu Mar 12 20:32:26 2026] [::1]:51049 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:32:26 2026] [::1]:54665 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:51049 Closing
+[Thu Mar 12 20:32:26 2026] [::1]:51954 Accepted
+[Thu Mar 12 20:32:26 2026] [::1]:51954 [200]: GET /index.php?debugbar_time=1773318745.912561
+[Thu Mar 12 20:32:26 2026] [::1]:51954 Closing
+[Thu Mar 12 20:32:29 2026] [::1]:57538 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:57538 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:58614 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:49922 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:51744 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:58614 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:32:30 2026] [::1]:58614 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:58506 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:49922 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:32:30 2026] [::1]:51744 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:32:30 2026] [::1]:58506 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:32:30 2026] [::1]:51744 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:58506 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:49922 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:57161 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:57161 [200]: GET /uploads/profiles/avatar_2_1773318745.jpg
+[Thu Mar 12 20:32:30 2026] [::1]:64551 Accepted
+[Thu Mar 12 20:32:30 2026] [::1]:64551 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:32:30 2026] [::1]:57161 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:64551 Closing
+[Thu Mar 12 20:32:30 2026] [::1]:49308 Accepted
+[Thu Mar 12 20:32:31 2026] [::1]:49308 [200]: GET /index.php?debugbar_time=1773318750.452101
+[Thu Mar 12 20:32:31 2026] [::1]:49308 Closing
+[Thu Mar 12 20:32:35 2026] [::1]:59439 Accepted
+[Thu Mar 12 20:32:35 2026] [::1]:59439 Closing
+[Thu Mar 12 20:32:35 2026] [::1]:49996 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:49996 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:50497 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:52903 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:50711 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:63900 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:50497 [200]: GET /css/adminlte.css
+[Thu Mar 12 20:32:36 2026] [::1]:52903 [200]: GET /index.php?debugbar
+[Thu Mar 12 20:32:36 2026] [::1]:52903 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:50711 [200]: GET /assets/images/avatar4.png
+[Thu Mar 12 20:32:36 2026] [::1]:63900 [200]: GET /assets/img/AdminLTELogo.png
+[Thu Mar 12 20:32:36 2026] [::1]:50711 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:63900 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:50497 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:54742 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:54742 [200]: GET /uploads/profiles/avatar_2_1773318745.jpg
+[Thu Mar 12 20:32:36 2026] [::1]:54742 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:59896 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:59896 [200]: GET /js/adminlte.js
+[Thu Mar 12 20:32:36 2026] [::1]:59896 Closing
+[Thu Mar 12 20:32:36 2026] [::1]:63410 Accepted
+[Thu Mar 12 20:32:36 2026] [::1]:63410 [200]: GET /index.php?debugbar_time=1773318756.282542
+[Thu Mar 12 20:32:36 2026] [::1]:63410 Closing

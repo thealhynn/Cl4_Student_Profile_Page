@@ -2,51 +2,40 @@
 
 use CodeIgniter\Router\RouteCollection;
 
-/**
- * @var RouteCollection $routes
- */
-$routes->get('/', 'Auth::index');
-$routes->get('login', 'Auth::index');
-$routes->post('login', 'Auth::index');
-$routes->get('logout', 'Auth::logout');
-$routes->get('blocked', 'Auth::forbiddenPage');
-$routes->get('register', 'Auth::register');
-$routes->post('register', 'Auth::registration');
+/** @var RouteCollection $routes */
 
-$routes->get('dashboard', 'Home::index');
-$routes->get('dashboard-v2', 'Home::dashboardV2');
-$routes->get('dashboard-v3', 'Home::dashboardV3');
+// ── Public routes (no auth required) ─────────────────────────
+$routes->get('/',         'AuthController::login');
+$routes->get('/login',    'AuthController::login');
+$routes->post('/login',   'AuthController::loginPost');
+$routes->get('/logout',   'AuthController::logout');
+$routes->get('/unauthorized', 'AuthController::unauthorized');
 
-$routes->get('/profile', 'ProfileController::show');
-$routes->get('/profile/edit', 'ProfileController::edit');
-$routes->post('/profile/update', 'ProfileController::update');
-
-// Setting Routes
-$routes->group('users', static function ($routes) {
-    $routes->get('/', 'Settings::users');
-    $routes->post('create-role', 'Settings::createRole');
-    $routes->post('update-role', 'Settings::updateRole');
-    $routes->delete('delete-role/(:num)', 'Settings::deleteRole/$1');
-
-    $routes->get('role-access', 'Settings::roleAccess');
-    $routes->post('create-user', 'Settings::createUser');
-    $routes->post('update-user', 'Settings::updateUser');
-    $routes->delete('delete-user/(:num)', 'Settings::deleteUser/$1');
-
-    $routes->post('change-menu-permission', 'Settings::changeMenuPermission');
-    $routes->post('change-menu-category-permission', 'Settings::changeMenuCategoryPermission');
-    $routes->post('change-submenu-permission', 'Settings::changeSubMenuPermission');
+// ── Student routes — must be logged in AND have role=student ──
+$routes->group('', ['filter' => ['auth', 'student']], function ($routes) {
+    $routes->get('/student/dashboard',  'StudentController::dashboard');
+    $routes->get('/profile',            'ProfileController::show');
+    $routes->get('/profile/edit',       'ProfileController::edit');
+    $routes->post('/profile/update',    'ProfileController::update');
 });
 
-$routes->group('menu-management', static function ($routes) {
-    $routes->get('/', 'Settings::menuManagement');
-    $routes->post('create-menu-category', 'Settings::createMenuCategory');
-    $routes->post('create-menu', 'Settings::createMenu');
-    $routes->post('create-submenu', 'Settings::createSubMenu');
+// ── Teacher routes — teacher AND admin can access ─────────────
+$routes->group('', ['filter' => ['auth', 'teacher']], function ($routes) {
+    $routes->get('/dashboard',              'DashboardController::index');
+    $routes->get('/students',               'StudentManagementController::index');
+    $routes->get('/students/show/(:num)',   'StudentManagementController::show/$1');
 });
-$routes->get('menu','Menu::index');
 
-// Student Routes
-$routes->get('students', 'Student::index');
-$routes->post('student/store', 'Student::store');
-$routes->delete('student/delete/(:num)', 'Student::delete/$1');
+// ── Admin routes — admin only ─────────────────────────────────
+$routes->group('admin', ['filter' => ['auth', 'admin']], function ($routes) {
+    $routes->get('roles',                      'Admin\RoleController::index');
+    $routes->get('roles/create',               'Admin\RoleController::create');
+    $routes->post('roles/store',               'Admin\RoleController::store');
+    $routes->get('roles/edit/(:num)',          'Admin\RoleController::edit/$1');
+    $routes->post('roles/update/(:num)',       'Admin\RoleController::update/$1');
+    $routes->get('roles/delete/(:num)',        'Admin\RoleController::delete/$1');
+    $routes->get('users',                      'Admin\UserAdminController::index');
+    $routes->post('users/assign-role/(:num)',  'Admin\UserAdminController::assignRole/$1');
+    $routes->get('register',                   'AuthController::register');
+    $routes->post('register',                  'AuthController::registerPost');
+});
